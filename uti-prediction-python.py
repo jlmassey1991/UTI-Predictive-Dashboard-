@@ -6,9 +6,8 @@ Logistic Regression Implementation
 This module implements a predictive analytics system for identifying
 high-risk nursing home facilities for urinary tract infections (UTIs).
 
-Author: Healthcare Analytics Team
-Date: June 2025
-Version: 1.0
+Author: Jason Massey DHQP CDC
+Date: March 2024
 """
 
 import pandas as pd
